@@ -1,0 +1,1 @@
+This code is based on generic algorithms for determining spacecraft attitude.
